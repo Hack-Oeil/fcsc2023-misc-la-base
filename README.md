@@ -18,12 +18,12 @@ Origine : [La base](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-la-ba
 > http://localhost
 
 #### tentez 
-> nc la-base.cyrhades.fr:4000
+> nc la-base.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------

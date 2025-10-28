@@ -7,7 +7,7 @@ Fichiers:
 - [la-base.py](la-base.py)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [La base](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-la-base/)
 
